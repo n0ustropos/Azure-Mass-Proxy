@@ -1,0 +1,34 @@
+{
+	"Proxies":{
+        "UK West":0,
+        "Europe West":0,
+        "France Central":0,
+        "Europe North":0,
+        "US East":0,
+        "US East2":0,
+        "US North Central":0,
+        "US Central":0,
+        "US West2":0,
+        "Japan East":0,
+        "Japan West":0
+		},
+	"Azure Account Details":{
+		"Subscription ID":"xxxx",
+		"Tenant":"xxxx",
+		"Client ID":"xxxx",
+		"Client Secret":"xxxx"
+		},
+    "Azure Regions":{
+        "UK West":"ukwest",
+        "Europe West":"westeurope",
+        "France Central":"francecentral",
+        "Europe North":"northeurope",
+        "US East":"eastus",
+        "US East2":"eastus2",
+        "US North Central":"northcentralus",
+        "US Central":"centralus",
+        "US West2":"westus2",
+        "Japan East":"japaneast",
+        "Japan West":"japanwest"
+        }
+}
