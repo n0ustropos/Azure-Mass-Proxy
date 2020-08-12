@@ -54,6 +54,7 @@
 ## About The Project
 
 Python script created for easy deploying thousands of proxies.
+Main function is creating scaleSets with 100 proxies per Virtual Machine. 
 
 
 ### Built With
